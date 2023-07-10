@@ -1,3 +1,4 @@
+#Script à executer en tant qu'Admin
 import wmi
 
 input("Appuyez sur Entrée pour continuer...")
